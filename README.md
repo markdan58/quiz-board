@@ -11,7 +11,7 @@ The program can be used to test and create  questions and the provide multiple c
 
 Prompt the user to go to the website and give answers to the multiple quizes that are given on the site.And submitting his/her answers to get his/her score.
 
-##Specification
+## Specification
 The program acquires users input through radio form and gives output as a score as to what the user has put as answers to the question. 
 
 
