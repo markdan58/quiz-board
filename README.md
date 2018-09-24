@@ -20,7 +20,7 @@ The program acquires users input through radio form and gives output as a score 
 * [HTML]
 * [CSS]
 * [Bootsrap]
-* [JQWERY]
+* [JQUERY]
 
 ## Authors
 
