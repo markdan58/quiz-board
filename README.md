@@ -1,4 +1,3 @@
-
 # Quiz Board 
 ## Description: 
 This project involves the creation of a program that allows the user to answer questions from a multiple choice questions that you would have created.
@@ -20,7 +19,7 @@ The program acquires users input through radio form and gives output as a score 
 * [HTML]
 * [CSS]
 * [Bootsrap]
-* [JQUERY]
+* [JQWERY]
 
 ## Authors
 
